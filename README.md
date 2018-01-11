@@ -40,6 +40,9 @@ you can made some operation (copy cut past etc) with key 'm'
 ```
 ctrl+a > increment a value or a change a boolean (from true to false to true etc)
 
+F5 : undo windows (q to quit) and 'ctrl+w w' to switch windows
+F6 : tree windws
+
 :Tab /=       > align text to '='
 :Tab /:\zs    > align text to ':' but exclude the ':' character
 gg            > end of line
