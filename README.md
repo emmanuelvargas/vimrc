@@ -48,7 +48,27 @@ $             > go to end of line
 a             > go to begining of the line
 
 :set list : show hidden character (tabulation, space, end of line ...)
+```
 
 split windows:
 
+```
+^w s = partage l'écran en deux horizontalement
+^w v = partage l'écran en deux verticalement
+
+Se déplacer dans les splits :
+^w w = change de split
+^w j = sélectionne le split d'en bas
+^w k = sélectionne le split d'en haut
+^w + = agrandit le split actif d'une ligne
+^w - = réduit le split actif d'une ligne
+```
+
+Comment:
+```
+ctrl+v to put in visual column mode 
+up or down
+shift+i
+enter text to prefixe
+esc
 ```
